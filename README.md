@@ -78,14 +78,3 @@ Ensure you have Python installed. You can install additional dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or want to add new features, please create an issue or pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
