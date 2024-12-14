@@ -11,8 +11,6 @@ This project is a Typing Test Platform that allows users to test their typing sp
 - [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
